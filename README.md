@@ -3,7 +3,10 @@
 ## Table of contents
 
 - [Introduction](#Introduction)
-- [Result](#Result)
+- [Data Source](#Data-source)
+- [Visualizations](#Visualizations)
+  - [Tesla](#Tesla)
+  - [Gamestop](#Gamestop)
 
 ----------
 ## Introduction
@@ -18,7 +21,26 @@ On the other hand, the GameStop case demonstrates a unique phenomenon where mass
 Through an analysis of Tesla's and GameStop's profit data and stock prices, this repository will provide insights into how fundamental factors and market sentiment can influence stock price movements. Additionally, the repository will present data visualizations in the form of an interactive dashboard to facilitate understanding and comparison between the two cases.
 </p>
 
-## Result
+## Data source
+<p align="justify">
+The financial data analyzed in this repository spans the maximum available period for Tesla and GameStop stocks, as obtained from the yfinance library. For Tesla, the data covers its historical stock prices, dividends, and other relevant financial information from the company's initial public offering (IPO) in June 2010 up until the most recent trading day. Similarly, for GameStop, the data encompasses the entire period since the company's stock became publicly traded, dating back to its IPO in February 2002, and extends to the latest available data point. By leveraging the extensive historical data provided by yfinance, this repository aims to conduct a comprehensive analysis, capturing the full scope of stock price movements and their relationship with company profits and other factors throughout the lifespan of these two companies in the public markets.
+</p>
+
+**Source :** [yfinance](https://pypi.org/project/yfinance/)
+
+## Visualizations
 <p align="justify">
 
+</p>
+
+### 1). Tesla
+
+<p align="center">
+    <img width="1000" src="https://github.com/AlvinOctaH/Stock-Price-and-Profit-Analysis/blob/main/assets/result_tesla.png" alt="TESLA">
+</p>
+
+### 2). Gamestop
+
+<p align="center">
+    <img width="1000" src="https://github.com/AlvinOctaH/Stock-Price-and-Profit-Analysis/blob/main/assets/result_gamestop.png" alt="TESLA">
 </p>
