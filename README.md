@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Introduction](#Introduction)
+- [Result](#Result)
 
 ----------
 ## Introduction
@@ -15,4 +16,9 @@ On the other hand, the GameStop case demonstrates a unique phenomenon where mass
 </p>
 <p align="justify">
 Through an analysis of Tesla's and GameStop's profit data and stock prices, this repository will provide insights into how fundamental factors and market sentiment can influence stock price movements. Additionally, the repository will present data visualizations in the form of an interactive dashboard to facilitate understanding and comparison between the two cases.
+</p>
+
+## Result
+<p align="justify">
+
 </p>
