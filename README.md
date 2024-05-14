@@ -5,8 +5,8 @@
 - [Introduction](#Introduction)
 - [Data Source](#Data-source)
 - [Visualizations](#Visualizations)
-  - [Tesla](##Tesla)
-  - [Gamestop](##Gamestop)
+  - [Tesla](#1-tesla)
+  - [Gamestop](#2-gamestop)
 
 ----------
 ## Introduction
