@@ -1,4 +1,4 @@
-# Stock Price and Profit Analysis Tesla and GameStop
+# Stock Price and Profit Analysis Tesla VS GameStop
 ----------------
 ## Table of contents
 
